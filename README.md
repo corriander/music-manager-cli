@@ -13,9 +13,9 @@ principles.
 Overview
 --------
 
-Currently, there's nothing here but a development branch. As soon as
-there is a working (probably crude) implementation I'll make a
-release.
+Currently this is just placeholder code containing a loose
+approximation of the framework for internal representation of media
+(and audio).
 
 Rationale
 ---------
